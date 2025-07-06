@@ -6,7 +6,8 @@
 🌐 Portfolio: [[Dwaipayan-portfolio-link](https://dwaipayanbhowmikprotfolio.netlify.app/)]
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js![MuaKissGIF](https://github.com/user-attachments/assets/d2910dd4-a0a6-4964-a0a1-809e1312dc27)
+
 - Database: MongoDB, SQL
 - Version Control: Git & GitHub
 
