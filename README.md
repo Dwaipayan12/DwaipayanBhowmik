@@ -1,13 +1,12 @@
 # Hi there 👋 I'm Dwaipayan Bhowmik
 
 🎓 B.Tech CSE Graduate (2025)  
-💻 Full Stack Developer | Java | JavaScript | React.js | Node.js | MongoDB  
+💻 Full Stack Developer | Java | JavaScript | React.js | Node.js | MongoDB                                                              
 📚 Strong in Data Structures and Algorithms (DSA)  
-🌐 Portfolio: [[Dwaipayan-portfolio-link](https://dwaipayanbhowmikprotfolio.netlify.app/)]
+🌐 Portfolio: [[Dwaipayan-portfolio-link](https://dwaipayanbhowmikprotfolio.netlify.app/)]                                             68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- Backend: Node.js, Express.js![MuaKissGIF](https://github.com/user-attachments/assets/d2910dd4-a0a6-4964-a0a1-809e1312dc27)
-
+- Backend: Node.js, Express.js                                                                                                               
 - Database: MongoDB, SQL
 - Version Control: Git & GitHub
 
